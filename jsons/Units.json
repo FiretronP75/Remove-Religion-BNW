@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Pictish Warrior",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Celts",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]"],
+		"promotions": ["Pictish Courage"],
+		"attackSound": "metalhit"
+	}
+]
