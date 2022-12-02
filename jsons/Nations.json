@@ -1,0 +1,70 @@
+[
+	{
+		"name": "Byzantium",
+		"leaderName": "Theodora",
+		"adjective": ["Byzantine"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "All hail the most magnificent and magnanimous Empress Theodora, beloved of Byzantium and of Rome! From the lowly ranks of actress and courtesan you became the most powerful woman in the Roman Empire, consort to Justinian I. Starting in the late 520's AD, you joined your husband in a series of important spiritual and legal reforms, creating many laws which elevated the status of and promoted equal treatment of women in the empire. You also aided in the restoration and construction of many aqueducts, bridges, and churches across Constantinople, culminating in the creation of the Hagia Sophia, one of the most splendid architectural wonders of the world.",
+		"startIntroPart2": "Beautiful Empress, Byzantium is in need of your wisdom and strength - her people are lost without your light to lead them. The Byzantine Empire may have fallen once, but its spirit is still intact waiting to be reborn anew. Can you return Byzantium to the heights of glory it once enjoyed? Can you create a civilization to stand the test of time?",
+
+		"declaringWar": "It is always a shame to destroy a thing of beauty. Happily, you are not one.",
+		"attacked": "Now darling, tantrums are most unbecoming. I shall have to teach you a lesson.",
+		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.",
+		"introduction": "My, isn't this a pleasant surprise - what may I call you, oh mysterious stranger? I am Theodora, beloved of Byzantium.",
+		"neutralHello": "Hello again.",
+		"tradeRequest": "I have heard that you adept at certain kinds of ... interactions. Show me.",
+		"outerColor": [114, 162, 233],
+		"innerColor": [61, 0, 109],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Patriarchate of Constantinople",
+		"uniques": ["[+2 Culture] [in all cities] <before discovering [Steam Power]>"],
+
+		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
+			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
+			"Tyana", "Gaza", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
+			"Patra", "Korinthos"],
+        "spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
+	},
+	{
+		"name": "Celts",
+		"leaderName": "Boudicca",
+		"adjective": ["celtic"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Eternal glory and praise for you, fierce and vengeful Warrior Queen! In a time dominated by men, you not only secured your throne and sovereign rule, but also successfully defied the power of the Roman Empire. After suffering terrible punishment and humiliation at the hand of the Roman invaders, you rallied your people in a bloody and terrifying revolt. Legions fell under your chariot wheels and the city of London burned. While in the end the Romans retained ownership of the isles, you alone made Nero consider withdrawing all troops and leaving Britain forever.",
+		"startIntroPart2": "Oh sleeping lioness, your people desire that you rise and lead them again in the calling that is your namesake. Will you meet their challenge on the open field and lead the Celts to everlasting victory? Will you restore your lands and build an empire to stand the test of time?",
+
+		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
+		"attacked": "Traitorous man! The Celtic peoples will not stand for such wanton abuse and slander - I shall have your balls!",
+		"defeated": "Vile ruler, know you have won this war in name alone. Your cities lie buried and your troops defeated. I have my own victory.",
+		"introduction": "I am Boudicca, Queen of the Celts. Let no-one underestimate me!",
+		"tradeRequest": "Let us join our forces together and reap the rewards.",
+		"afterPeace": "Well played, fellow warrior.",
+
+		"neutralHello": "God has given good to you.",
+		"neutralLetsHearIt": ["We are all ears…","We are all ears…","Forward."],
+		"neutralNo": ["We must decline.","No.","We refuse."],
+		"neutralYes": ["Okay.","Sure, it shall be so.","Accepted."],
+
+		"hateHello": "Well?",
+		"hateLetsHearIt": ["Forward! Before I change my mind!","And?","Speak!"],
+		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
+		"hateYes": ["Eugh! Fine then…","Disgusting! Okay then…","But if I have to…"],
+
+		"outerColor": [12,75,25],
+		"innerColor": [157,172,255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Druidic Lore",
+		"uniques": ["[+1 Culture] [in all cities] <with [1] to [2] neighboring [unimproved] [Forest] tiles>",
+			"[+2 Culture] [in all cities] <with [3] to [6] neighboring [unimproved] [Forest] tiles>"],
+		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth",
+			"Penzance","Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen",
+			"Belfast","Caernarfon","Newquay","Saint-Nazaire","Castletown","Stirling","Galway","Conwy",
+			"St. Austell","Saint-Malo","Onchan","Dundee","Londonderry","Llanfairpwllgwyngyll","Falmouth","Lorient"]
+		// Llanfairpwllgwyngyll should actually be Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
+        "spyNames": ["Crìsdean", "Siobhán", "Seamus", "Ffion", "Pádraig", "Deirdre", "Mr. Quinn", "Éadaoin", "Alwyn", "Col Ceathar"]
+	}
+]
