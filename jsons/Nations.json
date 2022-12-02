@@ -19,7 +19,8 @@
 		"innerColor": [61, 0, 109],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Patriarchate of Constantinople",
-		"uniques": ["[+2 Culture] [in all cities] <before discovering [Steam Power]>"],
+		"uniques": ["[+1 Culture] [in all cities] <with [1] to [2] neighboring [unimproved] [Coast] tiles>",
+			"[+2 Culture] [in all cities] <with [3] to [6] neighboring [unimproved] [Coast] tiles>"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
