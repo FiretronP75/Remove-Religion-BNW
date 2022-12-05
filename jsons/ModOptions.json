@@ -1,5 +1,5 @@
 {
-	"nationsToRemove": ["Bratislava","Cahokia","Geneva","Ife","Jerusalem","La Venta","Vatican City","Wittenberg"],
+	"nationsToRemove": ["Bratislava","Cahokia","Geneva","Ife","Jerusalem","Kathmandu","La Venta","Lhasa","Vatican City","Wittenberg"],
 	"policiesToRemove": ["Piety"],
 	"uniques": ["Disable religion"],
 	"unitsToRemove": ["Great Prophet","Inquisitor","Missionary"]
